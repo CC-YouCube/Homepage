@@ -2,13 +2,13 @@
 
 ## Docker
 
-The YC [docker] iamge can be pulled from [ghcr.io/cc-youcube/youcube:latest](https://github.com/CC-YouCube/server/pkgs/container/youcube)
+The YC [docker] image can be pulled from [ghcr.io/cc-youcube/youcube:latest](https://github.com/CC-YouCube/server/pkgs/container/youcube)
 
 ```shell
 docker pull ghcr.io/cc-youcube/youcube:latest
 ```
 
-You can also build the Image your self buy using YouCube's [Dockerfile]
+You can also build the image your self buy using YouCube's [Dockerfile]
 
 ### Docker Compose
 
